@@ -1,0 +1,84 @@
+body {
+	background-color: #011b34;
+}
+
+#loginBox {
+	background-color: #FFFFFF;
+	margin: 20px auto 0px auto;
+	padding: 0px 0px 0px 0px;
+	width: 435px;
+	height: 180px;
+}
+
+#loginBox-head {
+	background-color: #ffffff;
+	width: 435px;
+	height: 56px;
+}
+
+
+#loginBox-head h1{
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 24px;
+	font-weight: lighter;
+	color: #000000;
+	float: center;
+	margin: 20px 0px 0px 6px;
+}
+
+#loginBox-title {
+	background-color: #ffffff;
+	width: 435px;
+	height: 131px;
+}
+
+
+#loginBox-body {
+	width: 435px;
+	height: 154px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	text-align: center;
+	display: block;
+	margin: 0px;
+}
+
+#loginBox-foot {
+	background-image:url('../images/loginBox-foot-img.jpg');
+	width: 435px;
+	height: 40px;
+}
+
+#form-login {
+	padding: 14px 117px 0px 118px;
+	width: 200px;
+	color: #454545;
+	text-align: left;
+	margin: 0px 0px 0px 0px;
+}
+
+#form-login label {
+	font-weight: bold;
+	width: 60px;
+	float: left;
+	padding: 5px 0px 0px 0px;
+}
+
+#form-login input {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	padding: 3px;
+	margin: 2px 3px;
+	border: 1px solid #3493CD;
+}
+
+
+.button {
+	width: 54px;
+	height: 24px;
+	border: none;
+	font-weight: bold;
+	color: #001849;
+	background-image: url('../images/back-button.gif');
+	background-repeat: repeat-x;
+}
