@@ -19,8 +19,8 @@
 				}
 			?>
 				<th>
-					<td><a href='tg.php?orderby=nim&urut=<?=$urutbaru;?>'>Nim</a></td>
-					<td><a href='tg.php?orderby=nama&urut=<?=$urutbaru;?>'>Nama</a></td>
+					<td><a href='tugas_praktikum.php?orderby=nim&urut=<?=$urutbaru;?>'>Nim</a></td>
+					<td><a href='tugas_praktikum.php?orderby=nama&urut=<?=$urutbaru;?>'>Nama</a></td>
 					<td>Alamat</a></td>
 				</th>
 				
